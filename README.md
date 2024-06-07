@@ -1,5 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <sub> <a href="https://www.linkedin.com/in/santiago-cosentino-2923ab156/" target="_blank">Santiago Cosentino</a><br>
+  <small> First Edition: June, 2024</small>
+    
+  </sub>
+</div>
 
+![Phiro Logo 2](https://github.com/sacosent/sacosent/assets/72815091/9f11aeec-8976-437b-a6b0-c1ee959742fe)
 <!--
 **sacosent/sacosent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
