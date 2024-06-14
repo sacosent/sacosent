@@ -2,9 +2,9 @@
   <img src="https://github.com/sacosent/sacosent/assets/72815091/cee6ba2f-5fbd-4933-9298-3d0cc5611b51" width="40%">
 </div>
 
-At PHIRO, every project is a collaborative effort, driven by passion and innovation. Join us in creating technology that makes a difference. Dive into this project, contribute, and share your feedback. Together, we can build something amazing.
+At PHIRO, every project is a collaborative effort, driven by passion and innovation. Join us in creating technology that makes a difference. Publish a dream, venture an idea, create a product, share the success.
 
-🔥 Ignite Inovation 🔥
+🔥 Ignite Inovation, Share Success 🔥
 
 <div align="center">
   <sub> <a href="https://www.linkedin.com/in/santiago-cosentino-2923ab156/" target="_blank">Santiago Cosentino</a><br>
