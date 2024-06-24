@@ -1,12 +1,13 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://github.com/sacosent/sacosent/assets/72815091/cee6ba2f-5fbd-4933-9298-3d0cc5611b51" width="40%">
+  <img src="https://github.com/sacosent/sacosent/assets/72815091/19b2c1ef-f649-4c82-9449-c2e22f020227" width="40%">
 </div>
 
-At PHIRO, every project is a collaborative effort, driven by passion and innovation. Join us in creating technology that makes a difference. Publish a dream, venture an idea, create a product, share the success.
+At TRIBES, every project is a collaborative effort, driven by passion and innovation. Join us in creating technology that makes a difference. Publish a dream, venture an idea, create a product, share the success.
 
-🔥 Ignite Inovation, Share Success 🔥
+🔥 Forge Ideas, Share Success 🔥
 
 <div align="center">
+  <sub> <a href="https://phirox.deta.page/" target="_blank">TRIBES</a><br>
   <sub> <a href="https://www.linkedin.com/in/santiago-cosentino-2923ab156/" target="_blank">Santiago Cosentino</a><br>
   <small> First Edition: June, 2024</small>  
   </sub>
