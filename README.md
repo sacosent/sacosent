@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="![Tribes 3](https://github.com/user-attachments/assets/28510a37-f2a4-49f9-91fd-cdadf1b2aabd)" width="40%">
+  <img src="https://github.com/user-attachments/assets/28510a37-f2a4-49f9-91fd-cdadf1b2aabd" width="40%">
 </div>
 
 At TRIBES, every project is a collaborative effort, driven by passion and innovation. Join us in creating technology that makes a difference. Publish a dream, venture an idea, create a product, share the success.
