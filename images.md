@@ -2,3 +2,5 @@
 ![Tribes logo](https://github.com/sacosent/sacosent/assets/72815091/6055789b-f531-47e7-8edc-2e9db86a12ea)
 ![Tribes minilogo](https://github.com/sacosent/sacosent/assets/72815091/5e223c9b-8cdd-49c7-8b73-76aac97b384d)
 ![Tribes 3 - minilogo](https://github.com/user-attachments/assets/ddbf5fcd-1e0c-459a-a03c-ba578528d8d7)
+![IMG-20220823-WA0013](https://github.com/user-attachments/assets/b9130c10-c4c3-4cdf-bcd3-a543457365f2)
+![Logo nitido](https://github.com/user-attachments/assets/b6ab8e62-5e75-49f8-9b6b-5e2f995e9a08)
