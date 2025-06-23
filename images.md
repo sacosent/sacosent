@@ -4,4 +4,4 @@
 ![Tribes 3 - minilogo](https://github.com/user-attachments/assets/ddbf5fcd-1e0c-459a-a03c-ba578528d8d7)
 ![IMG-20220823-WA0013](https://github.com/user-attachments/assets/b9130c10-c4c3-4cdf-bcd3-a543457365f2)
 ![Logo nitido](https://github.com/user-attachments/assets/b6ab8e62-5e75-49f8-9b6b-5e2f995e9a08)
-![Tribes 3](https://github.com/user-attachments/assets/ad5bdc59-82ed-4f76-ba8b-9e7b6eceefec)
+![Tribes 3](https://github.com/user-attachments/assets/ba65ba65-7b35-41b6-a007-ced5a7f12287)
